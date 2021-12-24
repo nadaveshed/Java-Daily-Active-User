@@ -1,4 +1,4 @@
-# Daily-Active-User
+# Daily Active User program
 Java, Maven and Spring project.
 
 To run the project:
